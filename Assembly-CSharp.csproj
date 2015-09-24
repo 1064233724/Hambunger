@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\AutoFade.cs" />
      <Compile Include="Assets\BGMove.cs" />
+     <Compile Include="Assets\BackToRight.cs" />
      <Compile Include="Assets\GestureRecognizer\Scripts\Demo\GestureCapturePoints.cs" />
      <Compile Include="Assets\GestureRecognizer\Scripts\Demo\GestureDemoEvent.cs" />
      <Compile Include="Assets\GestureRecognizer\Scripts\Demo\MultiStrokeCapturePoints.cs" />
@@ -62,6 +63,7 @@
      <Compile Include="Assets\GestureRecognizer\Scripts\Utility\FileTools.cs" />
      <Compile Include="Assets\GestureRecognizer\Scripts\Utility\Result.cs" />
      <Compile Include="Assets\GestureRecognizer\Scripts\Utility\Utility.cs" />
+     <Compile Include="Assets\Hover.cs" />
      <Compile Include="Assets\MusBackMov.cs" />
      <Compile Include="Assets\OurGesture.cs" />
      <Compile Include="Assets\Success.cs" />
