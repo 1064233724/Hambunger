@@ -1,26 +1,18 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GestureRecognizer/Scripts/Demo/GestureCapturePoints.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cloudbehavior.cs">
     <Files>
-      <File FileName="Assets/OurGesture.cs" Line="23" Column="2" />
-      <File FileName="Assets/Resources/gestures.xml" Line="1" Column="23" />
+      <File FileName="Assets/OurGesture.cs" Line="9" Column="3" />
+      <File FileName="Assets/Resources/gestures.xml" Line="1" Column="1" />
       <File FileName="Assets/GestureRecognizer/Scripts/Demo/GestureCapturePoints.cs" Line="170" Column="39" />
+      <File FileName="Assets/cloudbehavior.cs" Line="16" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="Assembly-CSharp" expanded="True">
-            <Node name="GestureRecognizer" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Demo" expanded="True">
-                  <Node name="GestureCapturePoints.cs" selected="True" />
-                </Node>
-                <Node name="GestureRecognizer" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="Resources" expanded="True" />
+            <Node name="cloudbehavior.cs" selected="True" />
           </Node>
-          <Node name="Assembly-UnityScript" expanded="True" />
         </State>
       </Pad>
     </Pads>
