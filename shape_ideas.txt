@@ -1,0 +1,7 @@
+1) Circle - Tomatoes (name: "Circle")
+2) Zed - Pickles (name: "Zed")
+3) Omega - Patty (name: "Omega")
+4) Small Omega - Lettuce (name: "DoubleU")
+5) Vertical Line - Cheese (name: "Vertical")
+6) Infinity - Onions (name: "Infinity")
+7) Tick - Bun (name: "Tick")
